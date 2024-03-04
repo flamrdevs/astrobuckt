@@ -140,6 +140,7 @@ const Catalog = () => {
                   <a
                     href={product.url}
                     className="group relative flex flex-col gap-2 lg:gap-3 p-3 lg:p-4 w-full h-full outline-none focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-neutral-9 bg-neutral-3 border border-neutral-4"
+                    target="_blank"
                     aria-label="Open"
                   >
                     <AspectRatio

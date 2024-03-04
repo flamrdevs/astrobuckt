@@ -34,6 +34,7 @@ export default () => {
                 "outline-none border border-white-8 hover:border-white-12 rounded-full",
                 "focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white-12"
               )}
+              target="_blank"
               aria-label="Open"
             >
               <social.icon className="transition size-1/2 text-white-8 group-hover:text-white group-hover:scale-110 group-focus-visible:text-white group-focus-visible:scale-110" />

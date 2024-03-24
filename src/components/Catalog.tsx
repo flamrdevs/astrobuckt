@@ -8,6 +8,7 @@ import { Lucide, Simple } from "~/components/icons";
 import DevelopedBy from "~/components/DevelopedBy.tsx";
 import Socials from "~/components/Socials.tsx";
 
+// TODO : update products
 const products = [
   {
     name: "Astrolinkt",
